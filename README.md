@@ -17,14 +17,6 @@ Here is the [writeup](https://github.com/ifchicken/CarND-LaneLines-P1/blob/maste
 Here is the [project Specifications](https://review.udacity.com/#!/rubrics/322/view)
 
 
-Creating a Great Writeup
----
-For this project, a great writeup should provide a detailed response to the "Reflection" section of the [project rubric](https://review.udacity.com/#!/rubrics/322/view). There are three parts to the reflection:
-1. Describe the pipeline
-2. Identify any shortcomings
-3. Suggest possible improvements
-
-
 
 The Project
 ---
