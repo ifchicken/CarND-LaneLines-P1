@@ -39,17 +39,17 @@ Grayscale image
 
 * step 2. call openCV function on gray scale image to gererate a Gaussian-smoothed image
 
-* 3. call canny edge detection function on Gaussian-smoothed image to generate a edge image
+* step 3. call canny edge detection function on Gaussian-smoothed image to generate a edge image
 
 ![alt text][image4]
 Edge image
 
-* 4. define a mask area for the focus region and filter out other area, combine mask area with edge image to generate masked-edge image
+* step 4. define a mask area for the focus region and filter out other area, combine mask area with edge image to generate masked-edge image
 
 ![alt text][image5]
 Masked-Edge image
 
-* 5. call hough transform function with some threshold parameter to detect lines for mask-edge image, then draw the hough lines and combine with original image
+* step 5. call hough transform function with some threshold parameter to detect lines for mask-edge image, then draw the hough lines and combine with original image
 
 ![alt text][image8]
 result image
