@@ -35,7 +35,7 @@ original image
 
 
 ![alt text][image3]
-Grayscale image
+#####Grayscale image
 
 * 2. call openCV function on gray scale image to gererate a Gaussian-smoothed image
 
