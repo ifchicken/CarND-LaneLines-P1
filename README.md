@@ -16,11 +16,17 @@ To meet specifications in the project, take a look at the requirements in the [p
 
 List of files
 ---
-Test_images/ some test case (.jpg) with white lines and yellow lines
+Test_images/    some test cases (.jpg) with white lines and yellow lines
 
-Report/ some screen shot(.jpg) from simulation
+Report/         some screen shot(.jpg) from simulation result
 
-P1_example.mp4 example result for this project
+P1_example.mp4  example result for this project
+
+challenge.mp4   challenge test vedio with curve and some tree shadow on the road
+
+extra.mp4       result of combining my pipeline with challenge.mp4 vedio
+
+raw-line-example.mp4    example result before modify draw_line() function
 
 
 Creating a Great Writeup
