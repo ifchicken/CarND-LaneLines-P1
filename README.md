@@ -16,8 +16,8 @@ To meet specifications in the project, take a look at the requirements in the [p
 
 List of files
 ---
-test_images/ some test case (.jpg) with white lines and yellow lines
-report/ some screen shot(.jpg) from simulation
+Test_images/ some test case (.jpg) with white lines and yellow lines
+Report/ some screen shot(.jpg) from simulation
 P1_example.mp4 example result for this project
 
 
