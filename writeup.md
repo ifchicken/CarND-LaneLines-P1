@@ -28,16 +28,16 @@ The goals / steps of this project are the following:
 ###1. Describe your pipeline. As part of the description, explain how you modified the draw_lines() function.
 
 My pipeline consisted of 5 steps. 
-* 1. change original image to grayscale image
+* step 1. change original image to grayscale image
 
 ![alt text][image2]
 original image
 
 
 ![alt text][image3]
-#####Grayscale image
+Grayscale image
 
-* 2. call openCV function on gray scale image to gererate a Gaussian-smoothed image
+* step 2. call openCV function on gray scale image to gererate a Gaussian-smoothed image
 
 * 3. call canny edge detection function on Gaussian-smoothed image to generate a edge image
 
