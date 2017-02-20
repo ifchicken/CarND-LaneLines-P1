@@ -11,9 +11,11 @@ When we drive, we use our eyes to decide where to go.  The lines on the road tha
 In this project you will detect lane lines in images using Python and OpenCV.  OpenCV means "Open-Source Computer Vision", which is a package that has many useful tools for analyzing images.  
 
 Here is the [code](https://github.com/ifchicken/CarND-LaneLines-P1/blob/master/P1.ipynb)
+
 Here is the [writeup](https://github.com/ifchicken/CarND-LaneLines-P1/blob/master/writeup.md)
 
-Specifications in the project [project rubric](https://review.udacity.com/#!/rubrics/322/view)
+Here is the [project Specifications](https://review.udacity.com/#!/rubrics/322/view)
+
 
 Creating a Great Writeup
 ---
@@ -22,11 +24,6 @@ For this project, a great writeup should provide a detailed response to the "Ref
 2. Identify any shortcomings
 3. Suggest possible improvements
 
-We encourage using images in your writeup to demonstrate how your pipeline works.  
-
-All that said, please be concise!  We're not looking for you to write a book here: just a brief description.
-
-You're not required to use markdown for your writeup.  If you use another method please just submit a pdf of your writeup. Here is a link to a [writeup template file](https://github.com/udacity/CarND-LaneLines-P1/blob/master/writeup_template.md). 
 
 
 The Project
