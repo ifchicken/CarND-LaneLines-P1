@@ -1,4 +1,4 @@
-#**Finding Lane Lines on the Road** 
+# **Finding Lane Lines on the Road** 
 
 ---
 
@@ -25,7 +25,7 @@ The goals / steps of this project are the following:
 
 ### Reflection
 
-###1. Describe your pipeline. As part of the description, explain how you modified the draw_lines() function.
+### 1. Describe your pipeline. As part of the description, explain how you modified the draw_lines() function.
 
 My pipeline consisted of 5 steps. 
 * step 1. change original image to grayscale image
@@ -63,11 +63,11 @@ hough_line with original draw_lines() function
 hough_line with extend_lines() function
 
 
-###2. Identify potential shortcomings with your current pipeline
+### 2. Identify potential shortcomings with your current pipeline
 
 One potential shortcoming would be happened when there's some tree's shadow on the road(like situation in challenge.mp4), the noise would be large in masked-edge image, then the average of left and right line could be shifted a little bit
 
 
-###3. Suggest possible improvements to your pipeline
+### 3. Suggest possible improvements to your pipeline
 
 A possible improvement would be to if we detected the line's color or slope at first and use it as reference, it could eliminate the noise a lot
