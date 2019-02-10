@@ -3,6 +3,10 @@
 
 <img src="laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
 
+Code and Report
+---
+[Here](https://nbviewer.jupyter.org/github/ifchicken/CarND-LaneLines-P1/blob/master/P1.ipynb)
+
 Overview
 ---
 
